@@ -387,8 +387,8 @@ body {
   }
 
   .main-footer {
-    padding: 120px 80px 0;
-    max-height: 400px;
+    padding: 120px 80px;
+    max-height: 600px;
     flex-wrap: wrap;
     align-content: flex-start;
   }
