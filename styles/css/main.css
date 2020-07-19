@@ -92,6 +92,7 @@ body {
   justify-content: space-between;
   padding: 25px 15px 0;
   margin-bottom: 80px;
+  font-family: 'Raleway', sans-serif;
 }
 .main-header__logo {
   width: 90px;
@@ -115,6 +116,7 @@ body {
   background-repeat: no-repeat;
   background-size: 100%;
   padding-top: 5%;
+  font-family: 'Open Sans', sans-serif;
 }
 .main-content .content-section {
   background-color: #F9F8FE;
@@ -211,6 +213,7 @@ body {
 .main-footer__contact-info .contact-info__item {
   display: flex;
   align-items: center;
+  font-family: 'Open Sans', sans-serif;
 }
 .main-footer__contact-info .contact-info__item:not(:last-child) {
   margin-bottom: 25px;
@@ -226,6 +229,7 @@ body {
 .main-footer__nav {
   display: flex;
   flex-direction: column;
+  font-family: 'Open Sans', sans-serif;
 }
 .main-footer__nav .footer-nav__link {
   color: #f6f6fe;
